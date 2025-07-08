@@ -1,0 +1,10 @@
+curl --request POST \
+  --url http://localhost:4000/patients \
+  --header 'content-type: application/json' \
+  --data '{
+    "name": "John Doe",
+    "email": "",
+    "address": "123 Main St, Springfield",
+    "dateOfBirth": "1985-06-15",
+  	"registeredDate": "2025-02-01"
+}'

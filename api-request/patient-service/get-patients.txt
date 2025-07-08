@@ -1,0 +1,3 @@
+  curl --request GET \
+    --url http://localhost:4000/patients \
+  --header 'content-type: application/json'

@@ -160,7 +160,7 @@ $RECYCLE.BIN/
 *.lnk
 
 ### IntelliJ IDEA ###
-.idea
+*.idea
 *.iws
 *.iml
 *.ipr
